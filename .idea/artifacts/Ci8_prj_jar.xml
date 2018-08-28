@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ci8-prj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ci8_prj_jar</output-path>
+    <root id="archive" name="Ci8-prj.jar">
+      <element id="module-output" name="Ci8-prj" />
+    </root>
+  </artifact>
+</component>
